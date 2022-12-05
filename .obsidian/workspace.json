@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "501dc5f4da4879f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2766227c4c8da973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adabaa79b437dc61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8348dc19f2dc0755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testcases/Vertical Jump testcase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b980c3c9cc72fab0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b02789f08492af39",
+    "type": "split",
+    "children": [
+      {
+        "id": "d9f46564b61682cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7f024a2d4e8f922",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "efee75eeb4a18c5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Exercise",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4f0d46fb67d3c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd46c526c418b917",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bd51e5959d2c1ae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a39930a026659406",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fcb96d935b289eb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf22e4c02579c2f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "02cfec4c2e50df71",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "adabaa79b437dc61",
+  "lastOpenFiles": [
+    "VPTD.md",
+    "Testcases/Vertical Jump testcase.md",
+    "Dashboard.md",
+    "MAS/03 List of requirements.md",
+    "Templates/Testcase template.md",
+    "Testcases/New testcase.md",
+    "Testcases/Run Testcase.md",
+    "Testcases/Simple Walk Testcase.md",
+    "Covergroups/Forward walk speed coverpoint.md",
+    "Covergroups/Walk speed covergroup.md"
+  ]
+}

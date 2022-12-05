@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "501dc5f4da4879f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f44427e49e3a24f8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily Notes/Notes/2022-10-15.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "187e11bfd1b0ecaf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "4e26d90d91ab69b4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "2517c546717ffff0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Ферди",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f35856687be68d4f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "f5676f8a2967fd53",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e43a1bd98bd0958",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Daily Notes/Notes/2022-10-15.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d6193b2cffc25d72",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Daily Notes/Notes/2022-10-15.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d877a4213f5c2c02",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Daily Notes/Notes/2022-10-15.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2,
+    "pinned": true
+  },
+  "active": "f44427e49e3a24f8",
+  "lastOpenFiles": [
+    "Respiratory Sinus Arithmia.md",
+    "Daily Notes/Notes/2022-10-15.md",
+    "Дрессировка Ферди.md",
+    "Упрись.md",
+    "Writing/Statics in SystemVerilog/Statics in SystemVerilog (eng text).md",
+    "Writing/Virtual methods/Virtual methods article ru.md",
+    "Job Search.md",
+    "Writing/Virtual methods/Virtual methods article.md",
+    "Writing/Not So-Virtual methods/Not so-virtual methods (text).md",
+    "Writing/Virtual methods/Virtual methods project.md"
+  ]
+}

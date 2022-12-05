@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "501dc5f4da4879f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "29456c406084bd8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aead83d89e9c2bc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Workout Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312bd02cb4311d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spanish.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c78ce348381233e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "16e4512be8dc57e5",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byModifiedTime"
+          }
+        }
+      },
+      {
+        "id": "e0a0a21c4418bba3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "DogTra",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f4ae9593abd537cf",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      }
+    ]
+  },
+  "right": {
+    "id": "590c18a8173afe66",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0d1a9727d2919930",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Spanish.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "854c05989f51d4f1",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Spanish.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ee03d57add43c249",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Spanish.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "active": "312bd02cb4311d09",
+  "lastOpenFiles": [
+    "Hustle Attitude.md",
+    "Xenoblade Chronicles 3.md",
+    "Spanish.md",
+    "Daily Notes/Notes/2022-11-27.md",
+    "Pasta with parsley sauce.md",
+    "Nibbana (Nirvana).md",
+    "Daily Notes/Workout Log.md",
+    "The Philosophy of Social Ecology.md",
+    "The Dispossessed.md",
+    "Post-Scarcity Anarchism.md"
+  ]
+}

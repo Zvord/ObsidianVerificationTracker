@@ -1,0 +1,1 @@
+A cat is a biomechanical device with a limited processing power. Its primary purpose is to annoy people while making an impression that its so-called masters cannot live without it.
