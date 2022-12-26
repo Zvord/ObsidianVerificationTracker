@@ -42,6 +42,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7038225e1739ff02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Requirement group.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -174,15 +186,15 @@
   },
   "active": "2b6e89d0a7088e64",
   "lastOpenFiles": [
-    "README.md",
-    "Dashboard.md",
     "Requirements/Jump.md",
+    "Templates/Requirement group.md",
+    "Dashboard.md",
+    "Requirements/Move requirement group.md",
+    "README.md",
     "Requirements/Jump vertically from lying position.md",
     "VPTD.md",
-    "Requirements/Move requirement group.md",
     "Requirements/Jump vertically from standing position.md",
     "Testcases/Vertical Jump testcase.md",
-    "MAS/03 List of requirements.md",
-    "Templates/Testcase template.md"
+    "MAS/03 List of requirements.md"
   ]
 }

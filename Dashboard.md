@@ -14,7 +14,7 @@ function is_uncovered(req_page) {
             !req_page.file.outlinks.file.tags.includes("#coverpoint"));
 };
 
-let req_groups = dv.array(dv.pages("#requirement_group"));
+let req_groups = dv.array(dv.pages('#requirement_group and -"Templates"'));
 let uncovered_reqs = new Set();
 for (let top_req of req_groups) {
 	let pages = new Set();
@@ -25,17 +25,17 @@ for (let top_req of req_groups) {
 	    for (let sr of dv.array(subreqs)) {
 		    if (!sr)
 			    continue;
-	        pages.add(sr.path);
-	        stack.push(dv.page(sr.path));
+			let p = dv.page(sr.path);
+			if (p.file.tags.includes("#requirement")) {
+				pages.add(sr.path);
+			}
+	        stack.push(p);
 	    }
 	}
 	pages = dv.array(Array.from(pages)).map(p => dv.page(p));
 	if (pages.some(is_uncovered))
 		uncovered_reqs.add(top_req);	
 }
-//dv.list(uncovered_reqs);
-//pages = dv.array(Array.from(pages)).map(p => dv.page(p));
-//pages = pages.filter(p => p.file.tags.includes("#requirement"));
 let links = dv.array(Array.from(uncovered_reqs)).map(p => p.file.link);
 dv.list(links)
 ```
