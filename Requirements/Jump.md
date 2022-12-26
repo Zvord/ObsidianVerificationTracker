@@ -2,8 +2,7 @@ A cat should be able to jump: perform an explosive movement with rapid change of
 
 	This requirement is a group of requiremtns, it cannot be covered by itself, only by coverage of subrequirements. How to handle this?
 
-Sub-requirements:
-- [[Jump vertically from lying position]]
-- [[Jump vertically from standing position]]
+Subrequirement:: [[Jump vertically from lying position]]
+Subrequirement:: [[Jump vertically from standing position]]
 
 #requirement_group 

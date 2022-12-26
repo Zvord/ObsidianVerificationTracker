@@ -11,12 +11,8 @@
             "id": "aead83d89e9c2bc5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Workout Log.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -25,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spanish.md",
+                "file": "Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +73,8 @@
           }
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "590c18a8173afe66",
@@ -89,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spanish.md",
+            "file": "Dashboard.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Spanish.md",
+            "file": "Dashboard.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -118,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Spanish.md"
+            "file": "Dashboard.md"
           }
         }
       }
@@ -127,15 +124,15 @@
   },
   "active": "312bd02cb4311d09",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Dashboard.md",
+    "Requirements/Walk.md",
+    "Requirements/Jump vertically from lying position.md",
+    "VPTD.md",
     "Hustle Attitude.md",
     "Xenoblade Chronicles 3.md",
     "Spanish.md",
     "Daily Notes/Notes/2022-11-27.md",
-    "Pasta with parsley sauce.md",
-    "Nibbana (Nirvana).md",
-    "Daily Notes/Workout Log.md",
-    "The Philosophy of Social Ecology.md",
-    "The Dispossessed.md",
-    "Post-Scarcity Anarchism.md"
+    "Pasta with parsley sauce.md"
   ]
 }
